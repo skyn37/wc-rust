@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Build Your Own `wc` Tool
 
 This challenge is to build your own version of the Unix command line tool wc!
@@ -106,5 +106,4 @@ In this step your goal is to support being able to read from standard input if n
 ```
 
 If it doesn’t, check your code, fix any bugs and try again. If it does, congratulations! You’ve done it, pat yourself on the back, job well done!
-```
 
